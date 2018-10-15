@@ -1,0 +1,50 @@
+body{
+    background-image:url("../images/halloween.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+p{
+    font-family: Nosifer;
+    color:red;
+}
+
+#questions{
+    font-family: Nosifer;
+    font-size: 40px;
+    text-align: center;
+    color:red;
+}
+
+.answers{
+text-align: center;
+font-size: 20px;
+
+}
+
+#counter{
+    font-size: 25px;
+}
+#score{
+    font-size: 20px;
+}
+
+#btn{
+
+width:120px;
+height: 60px;
+    text-align: center;
+}
+button{
+    background-color: orange;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+#youwin{
+    font-size: 30px;
+}
+#wrong{
+    font-size: 30px;
+}
